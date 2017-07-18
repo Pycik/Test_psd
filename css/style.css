@@ -7,7 +7,6 @@ body {
 }
 .wrapper {
 	width: 960px;
-	background: red;
 	margin: 0 auto;
 
 
@@ -27,6 +26,8 @@ body {
 	list-style: none;
 	color: #b4b4b4;
 	display: inline-block;
+	margin-top: 5px;
+
 }
 
  a {
@@ -34,5 +35,95 @@ body {
 	color: #b4b4b4;
 }
 .header ul {
-	margin-left: 230px;
+	margin-left: 120px;
+
 }
+.icons {
+	float: right;
+	
+	margin: -15px 230px 0 0;
+}
+.logo {
+	margin: 42px auto;
+	
+
+}
+.menu {
+	height: 33px;
+	background: #fff;
+	
+}
+.menu li {
+	display: inline-block;
+	list-style: none;
+	margin-right: 60px;
+	font-size: 19px;
+
+}
+.sider {
+	width: 960px;
+	height: 285px;
+	background: #fff;
+	margin: 15px  0;
+	float: left;
+
+}
+.sider_img {
+	margin: 10px ;
+
+	
+}
+
+.sider2 {
+	width: 290px;
+	height: 285px;
+	float: right;
+
+	
+}
+.sider1 {
+	height: 50px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	padding-bottom: 5px;
+	border-bottom: 1px dotted #959595;
+	float: left;
+	
+}
+.sider22 {
+	height: 50px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	padding-bottom: 5px;
+	border-bottom: 1px dotted #959595;
+	float: left;
+	
+}
+.sider3 {
+	height: 50px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	padding-bottom: 5px;
+	border-bottom: 1px dotted #959595;
+	float: left;
+	
+}
+.sider4 {
+	height: 70px;
+	margin-top: 10px;
+
+	float: left;
+	
+}
+.sider2 img {
+	float: left;
+	margin-right: 10px;
+
+}
+
+.sider2 p {
+	line-height: 25px;
+	font-size: 17px;
+	color: #717171;
+}
+
