@@ -313,11 +313,11 @@ body {
 	background: #fff;
 	margin-top: 10px;
 	overflow: hidden;
+	float: left;
 	
 }
 .mainPost1 p {
 	margin: 10px;
-	padding-bottom: 10px;
 	padding: 6px;
 	font-size: 9px;
 	text-transform: uppercase;
@@ -343,11 +343,28 @@ footer p {
 }
 
 .mainPost1 img {
-	margin-left: 15px;
+	margin-left: 10px;
 	margin-right: 5px; 
+	margin-top: -5px;
+
+
 
 }
 .mainPost1 .h1 {
 	font-size: 19px;
-	margin: 
+	
 }
+.mainPost1 .mainImg {
+	width: 400px;
+	height: 260px;
+	background: #aaa;
+	margin: 10px;
+
+}
+.mainPost1 .texter {
+	font-size: 14px;
+	border: none;
+	text-transform: none;
+	word-spacing: 3px;
+}
+
